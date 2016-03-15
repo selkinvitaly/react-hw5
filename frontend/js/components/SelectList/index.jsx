@@ -4,7 +4,7 @@ import React, { Component, PropTypes } from "react";
 import Article from "../Article/";
 import Select from "react-select";
 import { articlesStore } from "../../stores/";
-
+//тут как-то сильно напутали, посмотрите решение в моем репозитории
 class SelectList extends Component {
 
   constructor() {
